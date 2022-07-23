@@ -1,2 +1,2 @@
-# applied_data_science_capstone
-Hub for storing hands-on labs and assignees data
+# Applied Data Science Capstone
+Hub for storing hands-on labs and assignees data from Coursera's Applied Data Science Capstone course.
